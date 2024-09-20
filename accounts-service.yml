@@ -1,12 +1,11 @@
 build:
   version: "3.0"
-  
+
 accounts:
- message: "Welcome to EazyBank accounts related QA APIs Git1"
- contactDetails:
-  name: "Smitha Ray- QA lead"
-  email: "smitha@eazybank.com"
+  message: "Welcome to EazyBank accounts related docker APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
   onCallSupport:
-   - (666) 265-3765
-   - (666) 734-8371 
-   
+    - (555) 555-1234
+    - (555) 523-1345
